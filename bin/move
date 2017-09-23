@@ -2,7 +2,7 @@
 
 require_relative '../lib/move.rb'
 
-board = Array.new(9, " ")
-puts "Welcome to TicTacToe!"
-display_board(board)
+Puts "Wecome to Tic Tac Toe!"
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 # Code your CLI Here
