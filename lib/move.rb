@@ -10,6 +10,8 @@ def input_to_index(input)
   input to.i - 1
 end
 
-def 
+def move(board, input, token = "X")
+  board[input]
+end
 
 # code your input_to_index and move method here!
